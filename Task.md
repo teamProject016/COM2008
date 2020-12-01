@@ -1,8 +1,16 @@
 # Task
 ## Software System
-- Add the four departments Business School (BUS), Computer Science (COM), Psychology (PSY) and Modern Languages (LAN).
-- Add the degrees MSc in Business Administration (lead BUS), MEng Software Engineering with a Year in Industry (lead COM), BSc Information Systems (lead COM, partners BUS, LAN), MPsy Cognitive Science (lead PSY, partner COM).
-- Add realistic core and optional modules for each of the above degrees (take inspiration from the Sheffield University module-guide), ensuring that modules are supplied by all relevant partner-departments; the MSc degree will be all-core, but other degrees will have 20cr free choice at level 1, all-core at level 2, and 40cr free choice at levels 3 and 4.
+- Add the four departments 
+  - Business School (BUS), Computer Science (COM), Psychology (PSY) and Modern Languages (LAN).
+- Add the degrees 
+  - MSc in Business Administration (lead BUS)
+  - MEng Software Engineering with a Year in Industry (lead COM)
+  - BSc Information Systems (lead COM, partners BUS, LAN)
+  - MPsy Cognitive Science (lead PSY, partner COM).
+
+1. Add realistic core and optional modules for each of the above degrees (take inspiration from the Sheffield University module-guide)
+2. ensuring that modules are supplied by all relevant partner-departments
+- the MSc degree will be all-core, but other degrees will have 20cr free choice at level 1, all-core at level 2, and 40cr free choice at levels 3 and 4.
 - Register a student for each of the above degrees, and select both suitable and unsuitable options for their free-choice modules, showing how your system prevents administrators from picking the wrong modules and checks that a student’s credit-totals are correct.
 - Progress these students through the levels, such that
   - the MSc student gets a conceded pass on taught modules, eventually passing MSc
